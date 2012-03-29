@@ -1,0 +1,31 @@
+set number
+
+syntax on
+
+set autoindent
+
+set softtabstop=4
+set tabstop=4
+set shiftwidth=4
+
+"mean expandtab
+set et sw=4 sts=4
+
+set showmatch
+
+set ruler
+
+colorscheme wanghuida 
+
+
+filetype plugin on
+
+set nocompatible
+set laststatus=2
+set encoding=utf-8
+set hlsearch
+
+set showcmd
+
+set scrolloff=3
+set ignorecase smartcase
