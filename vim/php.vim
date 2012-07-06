@@ -3610,6 +3610,7 @@ if s:show_pcre
       HiLink pregClassExcEscapeRange pregClassExcRange
       HiLink pregClassEscapeUnknown pregAmbiguous
 
+
       delcommand HiLink
     " }}}
 endif
